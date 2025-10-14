@@ -6,7 +6,7 @@ My journey into the world of programming started in a bootcamp, but my real pass
 
 ### 💻 My Core Skills
 
-- **Languages:** C++, JavaScript
+- **Languages:** C++, JavaScript/Typescript
 - **Frontend:** **React**, **Next.js**, **Tailwind CSS**
 - **Databases:** MongoDB
 - **Cloud/Hosting:** Google Firebase, Cloudinary
